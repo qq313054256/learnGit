@@ -3,3 +3,5 @@ Git is a free softwar distributed under the GPL
 Git is a mutable index called stage
 Git tracks changes
 new changes
+change2
+
